@@ -116,17 +116,9 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 Before contributing, please review the contribution guidelines.
 
-## Contact
-
-For additional information or inquiries, you can reach out to the project maintainer:
-
--   Name: Silent-Watcher
--   Email: alitabatabaee20@mail.com
 
 Feel free to contact the maintainer for any questions or feedback regarding the project.
 
-
-This project is licensed under the MIT License. You are free to modify, distribute, and use the code for personal and c
 
 ## Sponsor ❤
 
